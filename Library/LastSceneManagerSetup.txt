@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/pfgd assignment 4 attempt5.unity
+- path: Assets/Scenes/SampleScene.unity
   isLoaded: 1
   isActive: 1

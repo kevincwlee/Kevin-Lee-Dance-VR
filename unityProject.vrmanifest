@@ -2,13 +2,13 @@
   "source": "Unity",
   "applications": [
     {
-      "app_key": "application.generated.unity.newunityproject.exe",
+      "app_key": "application.generated.unity.kevinleevrdancedemo.exe",
       "launch_type": "url",
       "url": "steam://launch/",
-      "action_manifest_path": "C:\\Users\\kcl2\\Desktop\\Kevin-Lee-Dance-VR\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "action_manifest_path": "C:\\Users\\kcl2\\Desktop\\Semester 4\\Kevin Lee VR Dance Demo\\Assets\\StreamingAssets\\SteamVR\\actions.json",
       "strings": {
         "en_us": {
-          "name": "New Unity Project [Testing]"
+          "name": "Kevin Lee VR Dance Demo [Testing]"
         }
       }
     }
